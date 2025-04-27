@@ -82,7 +82,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 For support or inquiries, please contact us:
 
 - **Developer**: Rouhollah Balvardi
-- **Email**: [balvardi@example.com](mailto:balvardi@example.com) *(لطفاً ایمیل خود را جایگزین کنید)*
+- **Email**: [r.balvardi@gmail.com](mailto:r.balvardi@gmail.com) *(لطفاً ایمیل خود را جایگزین کنید)*
 - **Website**: [dimagroup.ir](https://dimagroup.ir)
 
 You can also open an issue on the [GitHub repository](https://github.com/balvardi/dima-ads/issues).
